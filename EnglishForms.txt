@@ -1,0 +1,58 @@
+do	did	done	does	doing	end
+make	made	made	makes	making	end
+come	came	come	comes	coming	end
+rise	rose	risen	rises	rising	end
+fly	flew	flown	flies	flying	end
+stand up	stood up	stood up	stands up	standing up	end
+be expended	was expended	been expended	is expended	being expended	end
+eat	ate	eaten	eats	eating	end
+fall	fell	fallen	falls	falling	end
+drop	dropped	dropped	drops	dropping	end
+pass by	passed by	passed by	passes by	passing by	end
+surround	surrounded	surrounded	surrounds	surrounding	end
+enter	entered	entered	enters	entering	end
+walk	walked	walked	walks	walking	end
+be used up	been used up	been used up	be used up	being used up	end
+leave	left	left	leaves	leaving	end
+go	went	gone	goes	going	end
+grab	grabbed	grabbed	grabs	grabing	end
+drop	dropped	dropped	drops	dropping	end
+break	broke	broken	breaks	breaking	end
+stop	stopped	stopped	stops	stopping	end
+be firm	was firm	been firm	is firm	being firm	end
+put	put	put	puts	putting	end
+sink	sank	sunk	sinks	sinking	end
+give	gave	given	gives	giving	end
+show	showed	shown	shows	showing	end
+see	saw	seen	sees	seeing	end
+run	ran	run	runs	running	end
+scare	scareed	scared	scares	scaring	end
+hold	held	held	holds	holding	end
+run	ran	run	runs	running	end
+leave	left	left	leaves	leaving	end
+remove	removed	removed	removes	removing	end
+catch	caught	caught	catches	catching	end
+fall	fell	fallen	falls	falling	end
+reach	reached	reached	reaches	reaching	end
+find	found	found	finds	finding	end
+stick	stuck	stuck	sticks	sticking	end
+throw	threw	thrown	throws	throwing	end
+become	became	become	becomes	becoming	end
+inhabit	inhabited	inhabited	inhabits	inhabiting	end
+turn out	turned out	turned out	turns out	turning out	end
+sit	sat	sat	sits	sitting	end
+run	ran	run	runs	running	end
+attack	attacked	attacked	attacks	attacking	end
+send	sent	sent	sends	sending	end
+order	ordered	ordered	orders	ordering	end
+hit	hit	hit	hits	hitting	end
+die	died	died	dies	dying	end
+be obliterated	was obliterated	been obliterated	is obliterated	being obliterated	end
+find	found	found	finds	finding	end
+keep	kept	kept	keeps	keeping	end
+stay	stayed	stayed	stays	staying	end
+touch	touched	touched	touchs	touching	end
+cling	clung	clung	clings	clinging	end
+take	took	taken	takes	taking	end
+able	abled	abled	enables	enabling	end
+listen	listened	listened	listens	listening 	end
