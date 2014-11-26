@@ -1,0 +1,62 @@
+कर		do
+बना		make
+आ		come
+उठ		rise
+उड़		fly
+खड़ा हो		stand up
+खाप		be expended
+खा		eat
+गिर		fall
+गिरा		drop
+गुज़र		pass by
+घेर		surround
+घुस		enter
+चल		walk
+चुक		be used up
+छोड़		leave
+छोड़ दे		leave give
+जा		go
+झपट		grab
+टपक		drop
+टूट		break
+ठहर		stop
+डट		be firm
+डाल		put
+डूब		sink
+दे		give
+दिखा		show
+देख		see
+दौड़		run
+धमक		scare
+धर		hold
+धा		run
+निकल		leave
+निकाल		remove
+पकड़		catch
+पड़		fall
+पहुँच		reach
+पा		find
+फँस		stuck
+फेंक		throw
+बन		become
+बस		inhabit
+बाहर कर		turn out
+बैठ		sit
+भाग		run
+भिड़		attack
+भेज		send
+मांग		orde
+मार		hit
+मर		die
+मिट		be obliterated
+मिल		find
+रख		keep
+रख दे		keep give
+रह		stay
+लग		touch
+लिपट		cling
+ले		take
+ले आ		take come
+ले जा		take go
+सक		able
+सुना		listen 
